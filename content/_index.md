@@ -4,7 +4,7 @@ description: Burghfield Common
 theme_version: 2.8.2
 cascade:
   featured_image: /images/droneview.jpg
-Featured_Image: /images/charles-n-bev.jpg
+Featured_Image: /images/droneview.jpg
 date: 2023-04-20T23:27:28.726Z
 ---
 
