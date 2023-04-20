@@ -4,3 +4,10 @@ languageCode = 'en-us'
 title = 'Crossroads Church'
 theme = ["ananke"]
 
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/charlesnbev"
+
+[[params.ananke_socials]]
+name = "CMS"
+url = "/admin"
