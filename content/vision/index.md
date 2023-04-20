@@ -4,7 +4,7 @@ description: "To offer a bible based, Spirit-led church that caters for all ages
 featured_image: '/images/snowy.jpg'
 menu:
   main:
-    weight: 1
+    weight: 2
 ---
 
 {{< figure src="/images/charles-n-bev.jpg" title="Pastors Charles & Bev" >}}
