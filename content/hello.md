@@ -1,6 +1,7 @@
 ---
 title: "Welcome"
 description: "Welcome to Crossroads - your local church in Burghfield Common"
+slug: 'hello'
 featured_image: '/images/homesplash.jpg'
 menu:
   main:
