@@ -4,3 +4,5 @@ languageCode = 'en-us'
 title = 'Crossroads Church'
 theme = ["ananke"]
 
+[permalinks]
+posts = "/news/:year/:title/"
