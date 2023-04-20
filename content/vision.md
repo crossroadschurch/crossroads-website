@@ -7,7 +7,7 @@ featured_image: /images/snowy.jpg
 menu:
   main:
     weight: 2
-Featured_Image: /images/woods.jpg
+Featured_Image: /images/droneview.jpg
 date: 2023-04-20T18:47:16.241Z
 ---
 {{< figure src="/images/charles-n-bev.jpg" title="Pastors Charles and Bev" >}} 
