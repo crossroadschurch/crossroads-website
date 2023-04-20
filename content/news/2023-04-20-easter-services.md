@@ -1,5 +1,6 @@
 ---
 title: Easter Services
+Featured_Image: /images/easter.jpg
 date: 2023-03-26T19:25:51.199Z
 description: Easter Services
 ---
