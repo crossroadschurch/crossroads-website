@@ -12,7 +12,7 @@ Pastors Charles and Bev French come from Durban on the East Coast of South Afric
 
 Bev coordinates the elderly and isolated in her work with TiM Friends, a befriending service that is associated with Linking Lives. Charles works in a mental health recovery programme at Still the Hunger, plus he is involved in several social action projects in and around Reading, including Whitley SALT (Social Action Linked Together).
 
-# We believe in ...
+## We believe in ...
 - The one true God who lives eternally in three persons—the Father, the Son and the Holy Spirit.
 - The love, grace and sovereignty of God in creating, sustaining, ruling, redeeming and judging the world.
 - The divine inspiration and supreme authority of the Old and New Testament Scriptures, which are the written Word of God—fully trustworthy for faith and conduct.
