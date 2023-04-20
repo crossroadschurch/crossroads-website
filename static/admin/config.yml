@@ -5,7 +5,7 @@ media_folder: static/img
 public_folder: /img
 collections:
   - name: 'pages'
-    label: 'Pages''
+    label: 'Pages'
     folder: 'content/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
