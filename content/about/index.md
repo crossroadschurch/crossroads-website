@@ -1,7 +1,7 @@
 ---
 title: "Our Vision"
 description: "To offer a bible based, Spirit-led church that caters for all ages ─ serving in and around Burghfield Common, West Berkshire and Reading."
-#featured_image: 'charles-n-bev.jpg'
+featured_image: '/images/snowy.jpg'
 menu:
   main:
     weight: 1
