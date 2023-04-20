@@ -1,22 +1,75 @@
+<style type="text/css">
+form { 
+	display: table; i
+	width: 100px;
+}
+p { 	
+	display: table-row; 
+}
+label { 
+	padding-right: 4em;
+	padding-top: 2em;
+	display: table-cell; 
+}
+input { 
+	display: table-cell; 
+	width: 400px;
+}
+textarea { 
+	margin-top: 2em;
+	height:	200px;
+	width: 400px;
+	display: table-cell; 
+}
 
-<form name="mycontact" method="POST" data-netlify="true">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
-    </select></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
+
+.contactform    {
+	margin-top: 2em;
+}
+.myinput {
+	border: none;
+	padding-top: 0.4em;
+	corner-radius: 1em;
+	box-shadow:0 0 15px 4px rgba(0,0,0,0.26);
+}
+.textareapadding {
+	padding-top: -2em;
+	padding-bottom: -4em;
+}
+button {
+	border-radius: 2em;
+	padding: 1em;
+	margin-top: 2em;
+	width: 180px;
+}
+.contactform.textarea {
+ color: blue;
+}
+</style>
+<p>
+If you wish to get in contact with us please complete the
+form below and we will call or email you back.
+</p>
+<form class="contactform" name="mycontact" method="POST"
+data-netlify="true">
+	<p>
+		<label>Your Name:</label>
+		<input class="myinput" type="text" name="name">
+	</p>
+	<p>
+		<label>Your Email:</label>
+		<input class="myinput" type="email" name="email">
+	</p>
+	<p>
+		<label>Your Phone:</label>
+		<input class="myinput" type="phone" name="email">
+	</p>
+	<p>
+		<label></label>
+		<textarea class="myinput"  name="message"> </textarea>
+	</p>
+	<p>
+		<button type="submit">Send</button>
+	</p>
 </form>
 
