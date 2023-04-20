@@ -6,4 +6,4 @@ menu:
     weight: 3
 description: Church & community news
 ---
-Welcome to our news page . Here you will find all of our news from the church and community.
+Welcome to our news page. Here you will find all of our news from the church and community.

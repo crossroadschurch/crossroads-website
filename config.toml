@@ -1,6 +1,6 @@
 #baseURL = 'http://xrd.org.uk/'
 baseURL = 'https://crossroadschurch.netlify.app/'
-languageCode = 'en-us'
+languageCode = 'en-gb'
 title = 'Crossroads Church'
 theme = ["ananke"]
 
@@ -10,7 +10,9 @@ custom_css = ["custom.css","special.css"]
 [[params.ananke_socials]]
 name = "facebook"
 url = "https://www.facebook.com/charlesnbev"
+color = '#4267B2'
 
 [[params.ananke_socials]]
 name = "CMS"
 url = "/admin"
+color = '#acacac'
