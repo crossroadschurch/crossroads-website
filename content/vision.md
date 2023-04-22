@@ -10,7 +10,7 @@ menu:
 Featured_Image: /images/droneview.jpg
 date: 2023-04-20T18:47:16.241Z
 ---
-{{< figure src="/images/charles-n-bev.jpg" title="Pastors Charles and Bev" >}} 
+{{< figure src="/images/charlesbevdinner.jpg">}} 
 
 Pastors Charles and Bev French come from Durban on the East Coast of South Africa. They were ordained in 1998 and served as senior ministers with Church of the Nations and Lighthouse Ministries. In the UK they pastored at The Well in Whitley and Burghfield and have ministered in many churches in West Berkshire and Reading. Currently they are actively involved in Christians Together in Mission.
 
