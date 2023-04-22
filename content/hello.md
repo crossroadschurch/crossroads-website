@@ -13,7 +13,7 @@ Hi, welcome to Crossroads
 
 [![welcome to crossroads](/images/atchurch.jpg "Pastors Charles and Bev")](<>)
 
-Hi, we are Charles & Bev, and together we lead Crossroads in Burghfield Common. We were ordained in 1998 by the Church of the Nations International in South Africa. We arrived in the UK in 2010 and ministered with Keith Dolding at the Well Church and remain part of Churches in Community. Crossroads is a church that strongly supports community projects.
+Hi, we are Charles & Bev, and together we lead Crossroads in Burghfield Common. We were ordained in 1998 by Church of the Nations International in South Africa. We arrived in the UK in 2010 and ministered with Keith Dolding at the Well Church and remain part of Churches in Community. Crossroads is a church that strongly supports community projects.
 
 ## Ministries
 
@@ -39,7 +39,7 @@ We are involved in community outreach programmes including supporting the Ukrain
 
 ## Mental health
 
-Charles is a qualified psychodynamic and EDMR counsellor. He is the Chaplain, operations manager, counsellor and group facilitator at Still the Hunger; a Christian mental health recovery programme.
+Charles is a registered Psychodynamic Counsellor and EDMR Therapist. He is a counsellor and group facilitator at Still the Hunger; a Christian mental health recovery programme. 
 
 ## Times of Meetings
 
