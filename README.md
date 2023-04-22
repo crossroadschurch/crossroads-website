@@ -31,3 +31,7 @@ For example, if your css files are assets/ananke/css/custom.css and assets/anank
 
   [params]
     custom_css = ["custom.css","special.css"]
+
+# Adding CMS Users
+
+You may add more users of the Netlify CMS at https://app.netlify.com/sites/crossroadschurch/integrations/identity/netlify
