@@ -17,6 +17,9 @@ This site uses a customizable theme
 The theme can be found at:
 
 - https://themes.gohugo.io/themes/gohugo-theme-ananke/
+
+And is hosted on GitHub at 
+
 - https://github.com/theNewDynamic/gohugo-theme-ananke
 
 
