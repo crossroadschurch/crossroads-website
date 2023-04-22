@@ -5,7 +5,7 @@ permalink: "/carols/"
 ---
 
 hello world  
-this is another line
+this is line
 
 <div class="carols">
 
