@@ -14,7 +14,7 @@ date: 2023-04-20T18:47:16.241Z
 
 Pastors Charles and Bev French come from Durban on the East Coast of South Africa. They were ordained in 1998 and served as senior ministers with Church of the Nations and Lighthouse Ministries. In the UK they pastored at The Well in Whitley and Burghfield and have ministered in many churches in West Berkshire and Reading. Currently they are actively involved in Christians Together in Mission.
 
-Bev coordinates the elderly and isolated in her work with TiM Friends, a befriending service that is associated with Linking Lives. Charles works in a mental health recovery programme at Still the Hunger, plus he is involved in several social action projects in and around Reading, including Whitley SALT (Social Action Linked Together).
+Bev coordinates the elderly and isolated in her work with TiM Friends, a befriending service that is associated with Linking Lives. Charles works in a mental health recovery programme at Still the Hunger, plus he was involved in several social action projects in and around Reading, including Whitley SALT (Social Action Linked Together).
 
 ## We believe in ...
 
