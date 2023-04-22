@@ -4,8 +4,7 @@ title: Happy Christmas
 permalink: "/carols/"
 ---
 
-hello world
-
+hello world  
 this is another line
 
 <div class="carols">
