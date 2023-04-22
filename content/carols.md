@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Happy Christmas
+title: Carols 
 permalink: "/carols/"
 ---
 
