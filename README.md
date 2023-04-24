@@ -1,7 +1,9 @@
 # crossroads-website
 
 
-# Adding users 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5507b474-10fe-4df8-9224-fafc560d7f2a/deploy-status)](https://app.netlify.com/sites/crossroadschurch/deploys)
+
+#\ Adding users 
 
 This has to be done on the Identity Integrations page
 https://app.netlify.com/sites/crossroadschurch/integrations/identity/netlify
