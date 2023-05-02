@@ -2,7 +2,7 @@
 layout: default
 title: Carols
 permalink: /carols/
-Featured_Image: /images/carols-23.jpg
+Featured_Image: /images/droneview.jpg
 date: 2023-05-02T13:04:41.147Z
 ---
 
