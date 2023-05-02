@@ -1,6 +1,6 @@
 ---
 title: Christmas Carol service
-Featured_Image: /images/carols-23.jpg
+Featured_Image: /images/carols.jpg
 date: 2022-12-18T15:36:44.437Z
 description: "  "
 ---
