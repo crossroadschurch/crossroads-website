@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Carols 
-permalink: "/carols/"
+title: Carols
+permalink: /carols/
+Featured_Image: /images/carols-23.jpg
+date: 2023-05-02T13:04:41.147Z
 ---
 
 <div class="carols">
