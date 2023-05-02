@@ -1,5 +1,5 @@
-#baseURL = 'http://xrd.org.uk/'
-baseURL = 'https://crossroadschurch.netlify.app/'
+baseURL = 'http://xrd.org.uk/'
+#baseURL = 'https://crossroadschurch.netlify.app/'
 languageCode = 'en-gb'
 title = 'Crossroads Church'
 theme = ["ananke"]
