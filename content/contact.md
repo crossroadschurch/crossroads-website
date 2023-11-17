@@ -7,7 +7,7 @@ type: page
 menu: main
 ---
 
-If you wish to get in contact with us please complete the form below and we will call or email you back.
+If you wish to get in contact with us please complete the form below.
 
 {{< contact >}}
 
